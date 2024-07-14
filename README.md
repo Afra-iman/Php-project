@@ -1,5 +1,14 @@
 # Php-project
-create a uploaded_img file, uploaded_pdf file, sql database, images
+
+Designed and developed a full-stack e-commerce bookstore:
+  * Built responsive front-end interface using HTML, CSS, and Bootstrap
+  * Implemented user features including book preview and purchase functionality
+  * Developed admin panel for inventory management
+  * Integrated PHP backend with SQL database for data storage and retrieval
+
+Note : Create folders under names uploaded_img file, uploaded_pdf file sql database, images in src folder
+
+SQL Query for Creating Tables in Database: 
 
 Table user{
   id int [pk]
